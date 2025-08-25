@@ -144,25 +144,32 @@
        width="100%" style="border-radius: 15px;"/>
 </p> 
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;">
-
-  <a href="https://github.com/AliOding12/-DR_AI_Diagnosis_Project-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=-DR_AI_Diagnosis_Project-&theme=tokyonight" width="400"/>
-  </a>
-
-  <a href="https://github.com/AliOding12/PatientCare_AI_MIS_">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=PatientCare_AI_MIS_&theme=tokyonight" width="400"/>
-  </a>
-
-  <a href="https://github.com/AliOding12/RealTime_stock-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=RealTime_stock-dashboard&theme=tokyonight" width="400"/>
-  </a>
-
-  <a href="https://github.com/AliOding12/automata_library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=automata_library&theme=tokyonight" width="400"/>
-  </a>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/AliOding12/-DR_AI_Diagnosis_Project-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=-DR_AI_Diagnosis_Project-&theme=tokyonight" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AliOding12/PatientCare_AI_MIS_">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=PatientCare_AI_MIS_&theme=tokyonight" width="400"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AliOding12/RealTime_stock-dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=RealTime_stock-dashboard&theme=tokyonight" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AliOding12/automata_library">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=automata_library&theme=tokyonight" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
