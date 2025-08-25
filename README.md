@@ -196,5 +196,5 @@
 ---
 
 <p align="center">
-<img src="assets/wave.svg" width="100%" alt="wave"/>
+<img src="assets/output.gif" width="100%" alt="wave"/>
 </p>
