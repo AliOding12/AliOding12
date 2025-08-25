@@ -57,7 +57,10 @@
 ---
 <!-- Tech Stack -->
 <h3 align="center"></h3>
-<img src="https://img.shields.io/badge/🌱_Tech_Stack-rainbow?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/_Tech_Stack-rainbow?style=for-the-badge&logo=github&logoColor=white" 
+       width="100%" style="border-radius: 15px;" />
+</p>
 
 
 <!-- Frameworks & Libraries -->
@@ -136,23 +139,29 @@
 </table>
 
 ---
-<div align="center" gap="5px">
+<p align="center">
+  <img src="https://img.shields.io/badge/_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
+</p>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
   <a href="https://github.com/AliOding12/-DR_AI_Diagnosis_Project-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=-DR_AI_Diagnosis_Project-&theme=tokyonight" width="400"/>
   </a>
+
   <a href="https://github.com/AliOding12/PatientCare_AI_MIS_">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=PatientCare_AI_MIS_&theme=tokyonight" width="400"/>
   </a>
-</div>
 
-<div align="center"  gap="5px">
   <a href="https://github.com/AliOding12/RealTime_stock-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=RealTime_stock-dashboard&theme=tokyonight" width="400"/>
   </a>
+
   <a href="https://github.com/AliOding12/automata_library">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=automata_library&theme=tokyonight" width="400"/>
   </a>
+
 </div>
+
 
 ---
 <!-- Footer / Contact -->
