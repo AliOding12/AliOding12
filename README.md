@@ -1,13 +1,13 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="profile_banner8.gif" alt="Banner" width="100%"  height="300px" border-radius="5px"/>
+  <img src="assets/profile_banner8.gif" alt="Banner" width="100%"  height="300px" border-radius="5px"/>
 </p>
 
 ---
 <!-- Two Rectangles Layout -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=55&duration=2200&pause=900&color=191970&center=true&vCenter=true&width=750&height=80&lines=Hi%2C+I'm+Abbas+Ali;Full-Stack+Developer;AI+%26+ML+Engineer;MIS+%2F+Data+Systems+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=55&duration=2200&pause=900&color=ADD8E6&center=true&vCenter=true&width=750&height=80&lines=Hi%2C+I'm+Abbas+Ali;Full-Stack+Developer;AI+%26+ML+Engineer;MIS+%2F+Data+Systems+Builder)](https://git.io/typing-svg)
 
 
 <table>
@@ -131,7 +131,7 @@
     </td>
     <td width="50%" align="center">
       <!-- Skill Radar -->
-      <img src="/skills_radar.svg" alt="Skill Radar" />
+      <img src="assets/skills_radar.svg" alt="Skill Radar" />
     </td>
   </tr>
 </table>
