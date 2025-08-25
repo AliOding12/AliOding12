@@ -59,7 +59,7 @@
 <h3 align="center"></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/_Tech_Stack-rainbow?style=for-the-badge&logo=github&logoColor=white" 
-       height="35"/>
+       height="70"/>
 </p>
 
 
@@ -141,7 +141,7 @@
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" 
-       height="35"/>
+       height="70"/>
 </p> 
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
