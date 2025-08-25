@@ -59,7 +59,7 @@
 <h3 align="center"></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/_Tech_Stack-rainbow?style=for-the-badge&logo=github&logoColor=white" 
-       height="95%" width="100%" style="border-radius: 15px"/>
+       height="80%" width="100%" style="border-radius: 15px"/>
 </p>
 
 
