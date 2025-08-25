@@ -140,8 +140,8 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white" 
-       height="80" width="100%" style="border-radius: 15px"/>
+  <img src="https://img.shields.io/badge/_Projects-blueviolet?style=for-the-badge&logo=github&logoColor=white&height=80" 
+       width="100%" style="border-radius: 15px;"/>
 </p> 
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
