@@ -144,7 +144,7 @@
        width="100%" style="border-radius: 15px;"/>
 </p> 
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;">
 
   <a href="https://github.com/AliOding12/-DR_AI_Diagnosis_Project-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=-DR_AI_Diagnosis_Project-&theme=tokyonight" width="400"/>
