@@ -57,9 +57,8 @@
 ---
 <!-- Tech Stack -->
 <h3 align="center"></h3>
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1= Tech%20Stack%20🌱&height=80" width="100%"/></br>
-</p>
+<img src="https://img.shields.io/badge/🌱_Tech_Stack-rainbow?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
+
 
 <!-- Frameworks & Libraries -->
 <h4 align="center"> Frameworks & Libraries</h4>
@@ -137,7 +136,7 @@
 </table>
 
 ---
-<div align="center">
+<div align="center" gap="5px">
   <a href="https://github.com/AliOding12/-DR_AI_Diagnosis_Project-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=-DR_AI_Diagnosis_Project-&theme=tokyonight" width="400"/>
   </a>
@@ -146,7 +145,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center"  gap="5px">
   <a href="https://github.com/AliOding12/RealTime_stock-dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliOding12&repo=RealTime_stock-dashboard&theme=tokyonight" width="400"/>
   </a>
