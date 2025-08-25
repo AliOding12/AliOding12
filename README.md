@@ -171,9 +171,6 @@
   </tr>
 </table>
 
-
----
-<!-- Footer / Contact -->
 ---
 
 <h2 align="center">Contact Me</h2>
@@ -199,5 +196,5 @@
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" alt="wave"/>
+<img src="assets/wave.svg" width="100%" alt="wave"/>
 </p>
