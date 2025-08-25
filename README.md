@@ -196,5 +196,5 @@
 ---
 
 <p align="center">
-<img src="assets/wave_goodbye_svg.svg" width="100%" alt="wave"/>
+<img src="assets/wave.svg" width="100%" alt="wave"/>
 </p>
